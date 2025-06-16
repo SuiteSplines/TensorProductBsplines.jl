@@ -18,6 +18,7 @@ AbstractMappings = "^0.8.1"
 CartesianProducts = "^0.15.0"
 IgaBase = "^0.8.0"
 KroneckerProducts = "^0.13.0"
+RecipesBase = "1"
 SortedSequences = "^0.6.2"
 UnivariateSplines = "^0.14.0"
 
@@ -27,4 +28,4 @@ SafeTestsets = "1bc83da4-3b8d-516f-aca4-4fe02f6d838f"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [targets]
-test = ["Test", "SafeTestsets","LinearAlgebra"]
+test = ["Test", "SafeTestsets", "LinearAlgebra"]
