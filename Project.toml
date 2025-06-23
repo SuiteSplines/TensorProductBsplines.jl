@@ -1,7 +1,7 @@
 name = "TensorProductBsplines"
 uuid = "89f2e70f-f704-4f07-9b81-69bdc44074b1"
 authors = ["René Hiemstra <rrhiemstar@gmail.com>", "Michał Mika <michal@mika.sh>"]
-version = "0.8.2"
+version = "0.8.3"
 
 [deps]
 AbstractMappings = "7dac2afd-1bf6-47b8-bc94-9dcdcd19d527"
